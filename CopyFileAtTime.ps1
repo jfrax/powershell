@@ -1,4 +1,4 @@
-﻿$targetDate = Get-Date "7/5/2017 02:00 AM"
+﻿$targetDate = Get-Date "9/5/2017 02:00 AM"
 $sourceFile = "C:\staging\Site.Master"
 $destFile = "\\apps.rtix.com\web\Production\HelpDesk\Site.Master"
 
